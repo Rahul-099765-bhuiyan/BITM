@@ -1,0 +1,1 @@
+This assessment is done using Float and Flexbox. The website is not responsive. (1366 * 768) resolution recommended for better experience.
